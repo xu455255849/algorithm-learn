@@ -22,4 +22,4 @@ function selectionSort(array: number[]) {
   return sortedArr;
 }
 
-console.log(selectionSort([5, 3, 6, 2, 10])); // [2, 3, 5, 6, 10]
+console.log(selectionSort([5, 3, 6, 2, 10])); /// [2, 3, 5, 6, 10]
